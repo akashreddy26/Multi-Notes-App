@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="file_name">Notes.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="encoding">UTF-8</string>
+    <string name="about">About</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="time">Time</string>
+    <string name="des">Description</string>
+    <string name="text">Enter Text</string>
+    <string name="htitle">Enter Title</string>
+    <string name="copyrights">© 2019, Akash Reddy Gundlapalli</string>
+    <string name="version">Version 1.0</string>
+
+
+</resources>
